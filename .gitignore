@@ -36,4 +36,8 @@ Firefly-docs/
 
 cache/
 package/
+
 .obsidian/
+.blogimage/
+git_push.bat
+start.bat
